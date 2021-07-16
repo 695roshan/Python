@@ -1,3 +1,4 @@
+#to print the frequency of letters of a string in descending order
 dict={}
 list=[]
 def most_frequent(st):
